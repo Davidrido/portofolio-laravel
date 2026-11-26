@@ -1,0 +1,5 @@
+Nama Project    : portofolio-laravel
+Framework       : Laravel
+Database        : database_portofolio.sql (statis)
+Repository      : https://github.com/Davidrido/portofolio-laravel.git
+Visibility      : Public
